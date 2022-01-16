@@ -1,5 +1,4 @@
 ## Dr. Tuan-Vinh Le
-## 黎俊榮 博士
 
 You can use the [editor on GitHub](https://github.com/tuan-vinhle/tvle.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
