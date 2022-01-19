@@ -8,7 +8,7 @@ Dr. Le was granted full scholarships for his M.S. Degree and Ph.D. degrees by Na
 
 Design of a Trust Framework and Secure Cryptographic Protocols for Genomic Data Management and Transaction.
 
-適用於基因資料管理與交易之信任框架 與安全密碼協定設計.
+適用於基因資料管理與交易之信任框架與安全密碼協定設計.
 
 ### Research interest
 
