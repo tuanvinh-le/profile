@@ -6,8 +6,9 @@ Dr. Le was granted full scholarships for his M.S. Degree and Ph.D. degrees by Na
 
 ### PhD dissertation (博士論文)
 
-Design of a Trust Framework and Secure Cryptographic Protocols for Genomic Data Management and Transaction.
-適用於基因資料管理與交易之信任框架 與安全密碼協定設計.
+Design of a Trust Framework and Secure Cryptographic Protocols for Genomic Data Management and Transaction, 2021.
+
+適用於基因資料管理與交易之信任框架 與安全密碼協定設計, 110年.
 
 ### Research interest
 
@@ -17,7 +18,7 @@ Information security, communication system security, applied cryptography, crypt
 
 Journal papers (期刊論文):
 
-- Le, T.V., Hsu, C.L., and Chen, W.X., “A Hybrid Blockchain-based Log Management Scheme with Non-Repudiation for Smart Grids”, IEEE Transactions on Industrial Informatics, 2021. Accepted <SCI: 10.215 IF (2020), 1/62 in ENGINEERING, INDUSTRIAL>.
+- Le, T.V., Hsu, C.L., and Chen, W.X., “A Hybrid Blockchain-based Log Management Scheme with Non-Repudiation for Smart Grids”, IEEE Transactions on Industrial Informatics, 2022. Accepted <SCI: 10.215 IF (2020), 1/62 in ENGINEERING, INDUSTRIAL>.
 - Chen, S.H., Li, H.C., Liaw, Y.C., Hsu, C.L., Le, T.V., and Luo, W.L., “Evaluating Digital Divide based on Big Wireless Logs: A Case Study among Remote Tribes in Taiwan”, Libri-International Journal of Libraries and Information Studies, 2021. Accepted. <SCI: 0.521 IF (2020).
 - Le, T.V., and Hsu, C.L., “A Systematic Literature Review of Blockchain Technology: Security Properties, Applications, and Challenges”, Journal of Internet Technology, 2021. Accepted <SCI: 0.786 IF (2019).
 - Le, T.V., and Hsu, C.L., “An Anonymous Key Distribution Scheme for Group Healthcare Services in 5G-enabled Multi-Server Environments”, IEEE Access, Vol. 9, pp. 53408-53422, 2021. Accepted <SCI: 3.745 IF (2019).
