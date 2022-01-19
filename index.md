@@ -35,6 +35,6 @@ Conference papers (會議論文):
 
 ### Research sites
 
-- Research Gate: https://www.researchgate.net/profile/Tuan-Vinh-Le-2.
-- Google Scholar: https://scholar.google.com/citations?user=YPeqMS0AAAAJ&hl.
-- ORCID iD: https://orcid.org/0000-0002-3107-7292.
+- Research Gate: https://www.researchgate.net/profile/Tuan-Vinh-Le-2
+- Google Scholar: https://scholar.google.com/citations?user=YPeqMS0AAAAJ&hl
+- ORCID iD: https://orcid.org/0000-0002-3107-7292
