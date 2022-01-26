@@ -12,7 +12,7 @@ Design of a Trust Framework and Secure Cryptographic Protocols for Genomic Data 
 
 ### Research interest
 
-Information security, communication system security, applied cryptography, cryptographic protocol, and blockchain.
+Information security, communication system security, cryptographic protocol, applied cryptography, and blockchain.
 
 ### Publications
 
