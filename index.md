@@ -11,7 +11,7 @@ Design of a Trust Framework and Secure Cryptographic Protocols for Genomic Data 
 
 適用於基因資料管理與交易之信任框架與安全密碼協定設計.
 
-### Research interest
+### Research interests
 
 Information security, communication system security, cryptographic protocol, applied cryptography, and blockchain.
 
