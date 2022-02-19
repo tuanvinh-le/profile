@@ -3,7 +3,7 @@
 
 Tuan-Vinh Le received the Ph.D. degree in management from Chang Gung University, Taiwan in July 2021. His publications appear in multiple journals including the IEEE Transactions on Industrial Informatics, IEEE Access, Sensors, Journal of Internet Technology, Libri - International Journal of Libraries and Information Studies, and International Journal of Electronic Commerce Studies.
 
-Dr. Le was granted full scholarships for his M.S. degree and Ph.D. degree by National Formosa University in 2014 and Chang Gung University in 2016, respectively. He is currently a certified EC-Council instructor and an active reviewer of several journals (IEEE Access, Connection Science, etc.).
+Dr. Le is currently a certified EC-Council instructor and an active reviewer of several journals (IEEE Access, Connection Science, etc.). He was granted full scholarships for his M.S. degree and Ph.D. degree by National Formosa University in 2014 and Chang Gung University in 2016, respectively.
 
 ### PhD dissertation (博士論文)
 
