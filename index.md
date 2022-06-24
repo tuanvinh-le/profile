@@ -5,12 +5,6 @@ Tuan-Vinh Le received the Ph.D. degree in management from Chang Gung University,
 
 Dr. Le is currently a certified EC-Council instructor and an active reviewer of many SCI journals. He was granted full scholarships for his M.S. degree and Ph.D. degree by National Formosa University in 2014 and Chang Gung University in 2016, respectively.
 
-### PhD dissertation (博士論文)
-
-Design of a Trust Framework and Secure Cryptographic Protocols for Genomic Data Management and Transaction.
-
-適用於基因資料管理與交易之信任框架與安全密碼協定設計.
-
 ### Research interests
 
 Information security, communication system security, cryptography, and blockchain.
