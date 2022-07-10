@@ -13,7 +13,7 @@ Information security, communication system security, cryptography, and blockchai
 Journal papers (期刊論文):
 
 - Le, T.V., Lu, C.F, Hsu, C.L., Do, K.T., Chou, Y.F., and Wei, W.C., “A Novel Three-Factor Authentication Protocol for Multiple Service Providers in 6G-Aided Intelligent Healthcare Systems”, IEEE Access, Vol. 10, 2022. Accepted <SCI: 3.367 IF (2020)>.
-- Le, T.V., Hsu, C.L., and Chen, W.X., “A Hybrid Blockchain-based Log Management Scheme with Non-Repudiation for Smart Grids”, IEEE Transactions on Industrial Informatics, 2022. Accepted <SCI: 10.215 IF (2020), 1/62 in ENGINEERING, INDUSTRIAL>.
+- Le, T.V., Hsu, C.L., and Chen, W.X., “A Hybrid Blockchain-Based Log Management Scheme With Nonrepudiation for Smart Grids”, IEEE Transactions on Industrial Informatics, 2022. Accepted <SCI: 10.215 IF (2020), 1/62 in ENGINEERING, INDUSTRIAL>.
 - Chen, S.H., Li, H.C., Liaw, Y.C., Hsu, C.L., Le, T.V., and Luo, W.L., “Evaluating Digital Divide based on Big Wireless Logs: A Case Study among Remote Tribes in Taiwan”, Libri-International Journal of Libraries and Information Studies, 2021. Accepted. <SCI: 0.521 IF (2020)>.
 - Le, T.V., and Hsu, C.L., “A Systematic Literature Review of Blockchain Technology: Security Properties, Applications, and Challenges”, Journal of Internet Technology, 2021. Accepted <SCI: 0.786 IF (2019)>.
 - Le, T.V., and Hsu, C.L., “An Anonymous Key Distribution Scheme for Group Healthcare Services in 5G-enabled Multi-Server Environments”, IEEE Access, Vol. 9, pp. 53408-53422, 2021. Accepted <SCI: 3.745 IF (2019)>.
