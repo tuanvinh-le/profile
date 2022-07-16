@@ -2,7 +2,7 @@
 
 Tuan-Vinh Le received the Ph.D. degree in management from Chang Gung University, Taiwan in July 2021. From August 2021 to July 2022, he was an Assistant Professor with the Department of Information Management, Chihlee University of Technology, Taiwan. Since August 2022, he has been an Assistant Professor with the Program of Artificial Intelligence & Information Security, Fu Jen Catholic University, Taiwan.
 
-Dr. Le has authored or coauthored multiple papers in the IEEE Transactions on Industrial Informatics, IEEE Access, Sensors, Journal of Internet Technology, Libri - International Journal of Libraries and Information Studies, and International Journal of Electronic Commerce Studies. He is currently a certified EC-Council instructor and an active reviewer of many SCI journals.
+Dr. Le has authored or coauthored multiple papers in the IEEE Transactions on Industrial Informatics, IEEE Access, Sensors, Journal of Internet Technology, Libri - International Journal of Libraries and Information Studies, and International Journal of Electronic Commerce Studies. He is currently a certified EC-Council instructor and a frequent reviewer of many SCI journals.
 
 ### Research interests
 
